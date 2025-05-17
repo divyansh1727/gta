@@ -22,6 +22,9 @@ npm install
 # Start the development server
 npm run dev   # or npm start if using Create React App
 
+#for project overview
+gtaa-website.netlify.app
+
 
 
 
